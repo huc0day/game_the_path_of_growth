@@ -12,6 +12,8 @@ Artist, majoring in art and entertainment.
 Immortals, majoring in the path of immortality and cultivating immortality.
 Emperors, majoring in the Way of Emperors, the Way of Management; Simultaneously cultivate the paths of literature, military, commerce, martial arts, medicine, engineering, art, and immortality.
 
+Remark (The Way of Emperors must reach the level of perfection in civil, military, commercial, military, medical, industrial, artistic, and immortal realms, and the Way of Emperors is also at the level of perfection. Only with the body of an emperor can one achieve perfection.)
+
 Map system:
 
 The human world, the land of the living (open to the outside world).
