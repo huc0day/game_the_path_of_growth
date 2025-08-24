@@ -1,4 +1,4 @@
-This is a strategic development game that integrates political strategy, military tactics, survival management, strategic planning, and combat experience, providing players with a comprehensive, multidimensional, and three-dimensional development experience.
+This is a strategic development game called "Nine Domain Profound Pivot", which integrates political strategy, military tactics, survival management, strategic planning, and combat experience, providing players with a comprehensive, multidimensional, and three-dimensional development experience.
 
 Career system:
 
@@ -32,7 +32,7 @@ Alien, heterogeneous ethnic group.
 
 #####################################################################################################################################################################################################################################################################
 
-这是一款战略养成游戏，它将政治策略、军事战术、生存经营、战略规划与战斗体验融为一体，为玩家带来全面、多维且立体的养成体验。
+这是一款战略养成游戏《九域玄枢》，它将政治策略、军事战术、生存经营、战略规划与战斗体验融为一体，为玩家带来全面、多维且立体的养成体验。
 
 职业系统：
 
