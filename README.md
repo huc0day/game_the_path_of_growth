@@ -19,6 +19,7 @@ Boundary, the place of the deceased (temporarily closed).
 The heavenly realm, the land of immortals (temporarily closed).
 
 ecosystem:
+
 Human race, human race.
 Demon race, beast race.
 Immortal tribe, immortal tribe.
